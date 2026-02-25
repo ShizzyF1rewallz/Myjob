@@ -11,7 +11,7 @@ Application Flutter (MVC + Provider) permettant aux **recruteurs** de publier de
 - **Favoris** : Ajout / suppression d’offres sauvegardées
 - **API externe** : Import d’offres depuis l’API Arbeitnow (emplois internationaux), synchronisation avec Firestore
 - **Tableaux de bord** : Statistiques candidat (candidatures, favoris) et recruteur (offres, candidats, acceptés/refusés)
-- **UX** : Indicateurs de chargement, Snackbars, dialogues de confirmation, navigation par BottomNavBar
+- **UX** : Indicateurs de chargement, Snackbars, dialogues de confirmation, navigation par BottomNavBar .
 
 ## Architecture
 
